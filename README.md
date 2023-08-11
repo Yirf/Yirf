@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yirf</h1>
 <h3 align="center">A decent Developer from the US.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yirf" alt="yirf" /></a> </p>
-
 - 🔭 I’m currently working on [ESP Helper](discord.gg/T9pBQthbaR)
 
 - 🤝 I’m looking for help with [Kotlin](discord.gg/T9pBQthbaR)
