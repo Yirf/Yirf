@@ -12,7 +12,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Yirf&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirf&layout=compact&theme=tokyonight&hide_border=true />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -27,6 +27,7 @@
   </a>
 </p>
 
+---
 
 🤝 **Let's Connect**
 <p>
