@@ -1,21 +1,4 @@
-<h1>🌌 I'm <span style="color:#9c6fff">Yirf</span> — this is my github 🚀</h1>
 
-<p>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312biq7dlvpdbjofcvyn6yf2r42i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Now Playing on Spotify" />
-</p>
-
----
-
-📦 **What I'm doing now.**
-> *“Weird code, stranger bugs.”*
-
-- 🔧 Learning Lua for roblox games
-- 🧪 Expanding my Minecraft Game development knowledege
-- 🌱 Learning from mistakes
-
----
-
-🛠️ **Tech Stack — My Arsenal**
 
 | Languages       | Web Tech        | Game Dev / Scripting       |
 |----------------|------------------|-----------------------------|
