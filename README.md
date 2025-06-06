@@ -12,10 +12,21 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Yirf&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirf&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirf&layout=compact&theme=tokyonight&hide_border=true />
 </p>
 
 ---
+
+🏆 **IM FAMOUS**
+<p>
+  <a href="https://modrinth.com/plugin/dupe" target="_blank">
+    <img src="https://img.shields.io/modrinth/dt/dupe?label=Modrinth&color=04b54b"/>
+  </a>
+  <a href="https://www.spigotmc.org/resources/dupe.109239/" target="_blank">
+    <img src="https://img.shields.io/badge/Spigot-600%2B-f1641e?logo=spigotmc&style=flat"/>
+  </a>
+</p>
+
 
 🤝 **Let's Connect**
 <p>
