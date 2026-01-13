@@ -22,8 +22,8 @@
   <a href="https://modrinth.com/plugin/dupe" target="_blank">
     <img src="https://img.shields.io/modrinth/dt/dupe?label=Modrinth&color=04b54b"/>
   </a>
-  <a href="https://www.spigotmc.org/resources/dupe.109239/" target="_blank">
-    <img src="https://img.shields.io/badge/Spigot-600%2B-f1641e?logo=spigotmc&style=flat"/>
+  <a href="https://www.spigotmc.org/resources/judge-player-profiles.119624/" target="_blank">
+    <img src="https://img.shields.io/badge/Spigot-800%2B-f1641e?logo=spigotmc&style=flat"/>
   </a>
 </p>
 
