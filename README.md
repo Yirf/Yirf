@@ -8,16 +8,6 @@
 
 ---
 
-📊 **GitHub stuff**
-
-<div align="center">
-  <img height="165" src="https://stats.dooboo.io/api?username=Yirf&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://stats.dooboo.io/api/top-langs/?username=Yirf&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-
----
-
 🏆 **IM FAMOUS**
 <p>
   <a href="https://modrinth.com/plugin/dupe" target="_blank">
