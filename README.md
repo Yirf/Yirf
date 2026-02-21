@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yirf&theme=prussian&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=655&background=45%2C38978C%2C131F33)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yirf&theme=prussian&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=700&background=45%2C38978C%2C131F33)](https://git.io/streak-stats)
