@@ -1,5 +1,1 @@
-<p>
-  <a href="https://discord.com/users/992583886393593986" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yirf&theme=prussian&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&background=45%2C38978C%2C131F33)](https://git.io/streak-stats)
